@@ -101,3 +101,6 @@ This template is suitable for rather small apps. For bigger apps, a better & mor
   --saga.ts
   --store.ts
   ```
+
+## Project Preview
+[Project Preview](https://friendly-albattani-aca3b4.netlify.app/)
